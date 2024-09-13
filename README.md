@@ -1,6 +1,7 @@
 ## Buenas! Soy Martín
 
-Actualmente estoy finalizando la carrera de Analista en Tecnologías de la Información y la Comunicación en la UNLP.
+Actualmente estoy realizando las prácticas en el LIFIA para la finalización de la carrera de Analista en Tecnologías
+de la Información y la Comunicación en la UNLP.
 
 ### Tecnologías
 
