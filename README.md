@@ -1,9 +1,8 @@
-## Hi there 👋
+## Buenas! Soy Martín
 
 <!--
 **mmaurino/mmaurino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Actualmente estoy finalizando la carrera de Analista en Tecnologías de la Información y la Comunicación en la UNLP.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
