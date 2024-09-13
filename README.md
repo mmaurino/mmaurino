@@ -20,4 +20,4 @@ Soy bostero 💙💛⚽
 - Visual Studio Code 🖥️
 - Git 🎯
 - Spyder 🕷️
-![Roman Riquelme](https://media.tenor.com/DRp9lJzpa3cAAAAd/roman-riquelme-mate.gif)
+![Roman Riquelme](C:\Users\Usuario\Desktop\riquelme-juan-roman.gif)
