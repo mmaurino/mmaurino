@@ -21,4 +21,4 @@ de la Información y la Comunicación en la UNLP.
 - Visual Studio Code 🖥️
 - Git 🎯
 - Spyder 🕷️
-
+<img src="https://media.tenor.com/DRp9lJzpa3cAAAAd/roman-riquelme-mate.gif" align="right" width="200" />
