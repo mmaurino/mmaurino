@@ -4,7 +4,9 @@ Actualmente estoy realizando las prácticas en el LIFIA para la finalización de
 de la Información y la Comunicación en la UNLP.
 
 Soy bostero 💙💛⚽
+
 📧 Contacto: martmauri29@hotmail.com
+
 #### Lenguajes de Programación:
 - Python 🐍
 - Java ☕
